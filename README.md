@@ -25,3 +25,5 @@ SD card data logging
 SPI communication
 RTC usage
 Embedded system design considerations
+
+https://drive.google.com/file/d/1G7gOVF-IecMebCaVpWAKeRvcYq7chQcY/view?usp=drive_link
